@@ -67,6 +67,7 @@ Model performances were evaluated using R2 Score and Root Mean Squared Error (RM
 * Short-term forecasts using simpler models were more reliable.
 
 **Conclusion**
+
 The project demonstrated that traditional machine learning models (Linear Regression, Random Forest) can outperform complex models when properly tuned and applied to structured datasets. Model interpretability and low RMSE scores make these preferable for this dataset.
 
 **Future Recommendations**
